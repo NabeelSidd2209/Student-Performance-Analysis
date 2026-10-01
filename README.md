@@ -1,4 +1,4 @@
-Student Performance Analysis
+**Student Performance Analysis**
 Project Overview
 
 Student Performance Analysis is a data analytics project developed using MS Excel and Power BI to analyze and visualize student academic performance.
